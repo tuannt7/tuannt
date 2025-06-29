@@ -1,0 +1,496 @@
+{
+  "profile": {
+    "name": "TuanNT",
+    "fullName": "Nguyen Thanh Tuan",
+    "title": "Java Backend Developer",
+    "subtitle": "Backend Developer",
+    "email": "contact@tuannt.me",
+    "phone": "+84 123 456 789",
+    "location": "Hanoi, Vietnam",
+    "github": "https://github.com/tuannt",
+    "linkedin": "https://linkedin.com/in/tuannt",
+    "telegram": "https://t.me/tuannt",
+    "website": "https://tuannt.me",
+    "description": "Backend development expert with 8+ years of experience in Java, Spring Boot, and microservices architecture.",
+    "shortBio": "Java Backend Developer with 8+ years of experience",
+    "experience": "8+ years experience",
+    "copyright": "© 2025 TuanNT. All rights reserved."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "quiz": "Quiz",
+    "blog": "Blog",
+    "feeds": "Feeds",
+    "contact": "Contact"
+  },
+  "header": {
+    "subtitle": "Backend Developer",
+    "backToHome": "Back to Home"
+  },
+  "footer": {
+    "subtitle": "Backend Developer",
+    "description": "Backend development expert with 8+ years of experience in Java, Spring Boot, and microservices architecture.",
+    "location": "Hanoi, Vietnam",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "copyright": "© 2025 TuanNT. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "greeting": "Hi, I'm",
+      "title": "Java Backend Developer",
+      "description": "With 8+ years of backend development experience, I specialize in Java, Spring Boot, microservices, and large-scale system architecture.",
+      "viewProjects": "View Projects",
+      "downloadCV": "Download CV"
+    },
+    "highlights": {
+      "title": "My Expertise",
+      "subtitle": "Areas where I have deep experience and passion for development",
+      "backend": {
+        "title": "Backend Development",
+        "desc": "Building APIs and services with Java, Spring Boot"
+      },
+      "database": {
+        "title": "Database Design",
+        "desc": "Database design and optimization"
+      },
+      "microservices": {
+        "title": "Microservices",
+        "desc": "Microservices architecture and deployment"
+      },
+      "cloud": {
+        "title": "Cloud & DevOps",
+        "desc": "Cloud application deployment and management"
+      }
+    },
+    "quickAccess": {
+      "title": "Explore More",
+      "subtitle": "Learn about my work and projects",
+      "explore": "Explore",
+      "tryNow": "Try Now",
+      "getInTouch": "Get in Touch",
+      "projects": {
+        "title": "Featured Projects",
+        "desc": "View backend and full-stack projects I've built"
+      },
+      "quiz": {
+        "title": "Quiz Application",
+        "desc": "Try the interactive quiz app built with React"
+      },
+      "contact": {
+        "title": "Work with Me",
+        "desc": "Get in touch to discuss collaboration opportunities"
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Learn about my journey and experience in software development",
+    "bio": {
+      "title": "My Story",
+      "paragraph1": "I'm a Java Backend Developer with over 8 years of experience building and maintaining large-scale backend systems. I'm passionate about creating efficient and scalable technical solutions.",
+      "paragraph2": "Throughout my career, I've worked with various technologies, from traditional frameworks to modern cloud technologies. I'm always looking for opportunities to learn and apply the latest technologies.",
+      "paragraph3": "Besides software development, I'm passionate about sharing knowledge through blogging and mentoring young developers. I believe that sharing knowledge helps the community grow stronger."
+    },
+    "location": "Hanoi, Vietnam",
+    "quickFacts": {
+      "title": "Quick Facts",
+      "coffee": "500+ cups of coffee consumed this year",
+      "languages": "Java, Python, JavaScript, TypeScript",
+      "teamSize": "Led teams of 5-10 people",
+      "certifications": "3 professional certifications"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "years": "8+ years experience",
+      "senior": {
+        "title": "Senior Java Backend Developer",
+        "company": "Tech Solutions Inc.",
+        "period": "2020 - Present",
+        "desc": "Leading team development of large-scale microservices systems, architecture design and mentoring junior developers."
+      },
+      "mid": {
+        "title": "Java Developer",
+        "company": "Digital Innovations Ltd.",
+        "period": "2018 - 2020",
+        "desc": "Developing and maintaining enterprise web applications, performance optimization and CI/CD deployment."
+      },
+      "junior": {
+        "title": "Junior Java Developer",
+        "company": "StartUp Ventures",
+        "period": "2016 - 2018",
+        "desc": "Started career developing simple web applications and learning best practices."
+      }
+    },
+    "achievements": {
+      "title": "Notable Achievements",
+      "certification": {
+        "title": "Professional Certifications",
+        "desc": "AWS Certified Solutions Architect and Spring Professional"
+      },
+      "team": {
+        "title": "Team Leadership",
+        "desc": "Successfully led a team of 8 developers for 3 years"
+      },
+      "projects": {
+        "title": "Successful Projects",
+        "desc": "Completed 50+ high-quality projects"
+      }
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Explore the backend and full-stack projects I've built throughout my career",
+    "featured": "Featured Projects",
+    "other": "Other Projects",
+    "viewCode": "View Code",
+    "liveDemo": "Live Demo",
+    "code": "Code",
+    "demo": "Demo",
+    "status": {
+      "production": "In Production",
+      "development": "In Development",
+      "completed": "Completed"
+    },
+    "ecommerce": {
+      "title": "E-commerce Platform",
+      "desc": "Large-scale e-commerce system with microservices architecture, handling millions of transactions daily."
+    },
+    "microservices": {
+      "title": "Microservices Architecture",
+      "desc": "Complete microservices framework with service discovery, load balancing and automatic monitoring."
+    },
+    "api": {
+      "title": "REST API Framework",
+      "desc": "Rapid API development framework with authentication, validation and automatic documentation."
+    },
+    "quiz": {
+      "title": "Quiz Application",
+      "desc": "Interactive quiz application with support for multiple question formats and different learning modes."
+    },
+    "monitoring": {
+      "title": "Monitoring System",
+      "desc": "Comprehensive monitoring solution with real-time alerts and custom dashboards."
+    },
+    "chatbot": {
+      "title": "AI Chatbot Platform",
+      "desc": "Intelligent chatbot platform with natural language processing and machine learning."
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "Technologies and skills I use to build high-quality software solutions",
+    "backend": {
+      "title": "Backend Development"
+    },
+    "database": {
+      "title": "Databases"
+    },
+    "devops": {
+      "title": "DevOps & Cloud"
+    },
+    "tools": {
+      "title": "Development Tools"
+    },
+    "monitoring": {
+      "title": "Monitoring & Logging"
+    },
+    "frontend": {
+      "title": "Frontend (Bonus)"
+    },
+    "certifications": {
+      "title": "Professional Certifications",
+      "subtitle": "Certifications and credentials I've earned",
+      "aws": "AWS Certified Solutions Architect",
+      "spring": "Spring Professional Certification",
+      "oracle": "Oracle Certified Java Developer"
+    },
+    "summary": {
+      "title": "Skills Summary",
+      "experience": "Years Experience",
+      "projects": "Projects Completed",
+      "technologies": "Technologies Mastered",
+      "certifications": "Certifications"
+    }
+  },
+  "blog": {
+    "title": "Blog & Articles",
+    "subtitle": "Sharing knowledge and experience about software development, Java and backend technologies",
+    "featured": "Featured Posts",
+    "recent": "Recent Posts",
+    "readMore": "Read More",
+    "newsletter": {
+      "title": "Subscribe to New Posts",
+      "subtitle": "Get notified when new articles about Java, Spring Boot and backend development are published",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "posts": {
+      "microservices": {
+        "title": "Building Microservices with Spring Boot",
+        "excerpt": "Detailed guide on designing and deploying microservices architecture using Spring Boot, Spring Cloud and Docker."
+      },
+      "performance": {
+        "title": "Java Application Performance Optimization",
+        "excerpt": "Techniques and best practices to improve Java application performance, from JVM tuning to database optimization."
+      },
+      "database": {
+        "title": "PostgreSQL Performance Tuning",
+        "excerpt": "Database optimization strategies for PostgreSQL in high-traffic applications."
+      },
+      "testing": {
+        "title": "Testing Strategies for Java Applications",
+        "excerpt": "Building comprehensive test suites with JUnit, Mockito and integration testing for Spring Boot applications."
+      },
+      "security": {
+        "title": "Securing Spring Boot Applications",
+        "excerpt": "Implementing authentication and authorization with Spring Security, JWT and OAuth2 effectively."
+      },
+      "devops": {
+        "title": "DevOps with Docker and Kubernetes",
+        "excerpt": "Containerization and orchestration for Java applications using Docker, Kubernetes and CI/CD pipelines."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Get in touch to discuss collaboration opportunities, projects, or just to chat about technology",
+    "form": {
+      "title": "Send Message",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "subject": "Subject",
+      "subjectPlaceholder": "Message subject",
+      "message": "Message",
+      "messagePlaceholder": "Write your message...",
+      "send": "Send Message",
+      "success": "Message sent successfully! I'll get back to you as soon as possible."
+    },
+    "info": {
+      "email": {
+        "title": "Email",
+        "desc": "Send me an email anytime"
+      },
+      "phone": {
+        "title": "Phone",
+        "desc": "Call during business hours"
+      },
+      "location": {
+        "title": "Location",
+        "value": "Hanoi, Vietnam",
+        "desc": "Available for remote or on-site work"
+      }
+    },
+    "social": {
+      "title": "Social Media",
+      "subtitle": "Connect with me on other platforms"
+    },
+    "availability": {
+      "title": "Work Status",
+      "subtitle": "I'm currently open to new opportunities",
+      "status": "Available for new projects"
+    }
+  },
+  "feeds": {
+    "title": "News & Feeds",
+    "subtitle": "Latest news updates from trusted sources",
+    "filters": {
+      "title": "News Filters",
+      "source": "Source",
+      "category": "Category",
+      "refresh": "Refresh"
+    },
+    "loading": {
+      "sources": "Loading news sources...",
+      "feeds": "Loading news...",
+      "wait": "Please wait a moment"
+    },
+    "error": {
+      "title": "Data Loading Error",
+      "loadSources": "Unable to load news sources",
+      "loadFeeds": "Unable to load news"
+    },
+    "info": {
+      "lastUpdate": "Last updated",
+      "articles": "articles",
+      "source": "Source",
+      "category": "Category"
+    },
+    "article": {
+      "readMore": "Read more",
+      "publishedAt": "Published",
+      "timeAgo": {
+        "minutesAgo": "{minutes} minutes ago",
+        "hoursAgo": "{hours} hours ago",
+        "daysAgo": "{days} days ago"
+      }
+    },
+    "empty": {
+      "title": "No news available",
+      "description": "No articles found for this category."
+    }
+  },
+  "quiz": {
+    "app": {
+      "title": "Practice Quiz",
+      "subtitle": "Practice and improve your knowledge"
+  },
+    "progress": {
+      "title": "Quiz Progress",
+      "question": "Question {current} of {total}",
+      "complete": "{percentage}% Complete"
+    },
+    "question": {
+      "studyMode": "Study Mode",
+      "examMode": "Exam Mode",
+      "explanation": "Explanation:",
+      "correct": "Correct!",
+      "incorrect": "Incorrect!"
+    },
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next",
+      "finish": "Finish",
+      "submit": "Submit",
+      "questionCounter": "Question {current} / {total}",
+      "progressComplete": "{percentage}% complete",
+      "backToSetup": "Back to Setup"
+    },
+    "stats": {
+      "answered": "Answered",
+      "remaining": "Remaining",
+      "progress": "Progress"
+    },
+    "timer": {
+      "timeRemaining": "Time Remaining",
+      "timeRunningOut": "Time running out",
+      "timeAlmostUp": "Time's up!",
+      "timeUp": "Time's up"
+    },
+    "setup": {
+      "title": "Quiz Setup",
+      "subtitle": "Configure your practice session",
+      "questionsAvailable": "{count} questions available in this quiz",
+      "chooseMode": "Choose Quiz Mode",
+      "studyModeTitle": "Study Mode",
+      "studyModeDesc": "See correct answers and explanations immediately after each question",
+      "examModeTitle": "Exam Mode",
+      "examModeDesc": "Complete all questions first, then see results and explanations",
+      "timeLimit": "Time Limit",
+      "noTimeLimit": "No Time Limit",
+      "noTimeLimitDesc": "Take the quiz without time constraints",
+      "customTimeLimit": "Enter custom time",
+      "customTimePlaceholder": "Enter minutes",
+      "minutes": "minutes",
+      "minutesPerQuestion": "min/question",
+      "timeEstimate": "About {time} {unit}",
+      "unlimited": "Unlimited",
+      "questionCount": "How many questions would you like to practice?",
+      "allQuestions": "All Questions",
+      "allQuestionsDesc": "Practice with all {count} questions",
+      "questions": "questions",
+      "customNumber": "Enter custom number",
+      "customPlaceholder": "Enter number of questions",
+      "options": "Options",
+      "randomize": "Randomize Questions",
+      "randomizeDesc": "Questions will be presented in random order",
+      "startStudy": "Start Study Mode",
+      "startExam": "Start Exam Mode",
+      "backToSource": "Back to Source Selection"
+    },
+    "results": {
+      "studyComplete": "Study Session Complete!",
+      "examComplete": "Exam Complete!",
+      "performance": "Here's how you performed",
+      "timeUpMessage": "Time's up! Here's how you performed",
+      "score": "Score",
+      "totalQuestions": "Total Questions",
+      "correctAnswers": "Correct Answers",
+      "incorrectAnswers": "Incorrect Answers",
+      "overallPerformance": "Overall Performance",
+      "timeInformation": "Time Information",
+      "timeAllowed": "Time Allowed",
+      "timeUsed": "Time Used",
+      "timeRemaining": "Time Remaining",
+      "timeUp": "Time's up",
+      "showDetails": "Show Detailed Results",
+      "hideDetails": "Hide Detailed Results",
+      "tryAgain": "Try Again",
+      "loadNewQuiz": "Load New Quiz",
+      "detailedResults": "Detailed Results & Explanations",
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "needsImprovement": "Needs Improvement",
+      "correctAnswer": "Correct Answer",
+      "yourAnswer": "Your Answer",
+      "noAnswer": "You didn't select any answer",
+      "result": "Result:",
+      "explanation": "Explanation:",
+      "allAnswers": "All Answers:"
+    },
+    "sourceSelector": {
+      "title": "Select Quiz",
+      "subtitle": "Choose from predefined sources, enter a URL, or paste JSON directly",
+      "predefinedSources": "📚 Predefined Sources",
+      "customInput": "🔧 Custom Data Input",
+      "inputUrl": "Enter URL",
+      "inputJson": "Paste JSON",
+      "urlLabel": "URL of JSON file containing questions:",
+      "urlPlaceholder": "https://example.com/questions.json",
+      "jsonLabel": "Paste JSON content containing questions:",
+      "load": "Load",
+      "loadFromJson": "Load from JSON",
+      "validUrl": "Valid URL",
+      "invalidUrl": "Invalid URL",
+      "validJson": "Valid JSON",
+      "checkingJson": "Checking JSON...",
+      "formatInfo": "📋 Supported data format",
+      "formatDescUrl": "JSON file from URL must have an array structure with question objects in the following format:",
+      "formatDescJson": "JSON must have an array structure with question objects in the following format:",
+      "requirements": "Required fields:",
+      "reqQuestion": "Each question must have a",
+      "reqOptions": "The options field must be an array of objects",
+      "reqOptionFields": "Each option must have text and isCorrect",
+      "reqOneCorrect": "Only one option should have isCorrect: true",
+      "reqExplanation": "The explanation field is optional",
+      "loadingQuizzes": "Loading quiz list...",
+      "loadingWait": "Please wait a moment",
+      "apiError": "Unable to load from API",
+      "apiErrorDesc": "Showing default quizzes.",
+      "noQuizzes": "No quizzes available",
+      "noQuizzesDesc": "No quizzes found from data source.",
+      "loading": "Loading...",
+      "customUrlDesc": "Enter URL of JSON file containing quiz questions",
+      "customJsonDesc": "Paste JSON content containing questions directly",
+      "jsonInvalid": "Invalid JSON or incorrect format"
+    },
+    "loading": {
+      "title": "Loading quiz questions...",
+      "subtitle": "Fetching from external source",
+      "loadingQuestions": "Loading questions..."
+    },
+    "error": {
+      "title": "Cannot load Quiz",
+      "backToSource": "Back to source selection",
+      "loadData": "Error loading data"
+    }
+  },
+  "common": {
+    "available": "Available",
+    "predefined": "Predefined",
+    "url": "URL",
+    "json": "JSON",
+    "back": "Back",
+    "loading": "Loading",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information"
+  }
+}

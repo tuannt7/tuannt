@@ -1,0 +1,496 @@
+{
+  "profile": {
+    "name": "TuanNT",
+    "fullName": "Nguyễn Thanh Tuấn",
+    "title": "Java Backend Developer",
+    "subtitle": "Backend Developer",
+    "email": "contact@tuannt.me",
+    "phone": "+84 123 456 789",
+    "location": "Hà Nội, Việt Nam",
+    "github": "https://github.com/tuannt",
+    "linkedin": "https://linkedin.com/in/tuannt",
+    "telegram": "https://t.me/tuannt",
+    "website": "https://tuannt.me",
+    "description": "Chuyên gia phát triển backend với 8+ năm kinh nghiệm trong Java, Spring Boot và kiến trúc microservices.",
+    "shortBio": "Java Backend Developer với 8+ năm kinh nghiệm",
+    "experience": "8+ năm kinh nghiệm",
+    "copyright": "© 2025 TuanNT. Tất cả quyền được bảo lưu."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "projects": "Dự án",
+    "skills": "Kỹ năng",
+    "quiz": "Quiz",
+    "blog": "Blog",
+    "feeds": "Tin tức",
+    "contact": "Liên hệ"
+  },
+  "header": {
+    "subtitle": "Backend Developer",
+    "backToHome": "Quay về trang chủ"
+  },
+  "footer": {
+    "subtitle": "Backend Developer",
+    "description": "Chuyên gia phát triển backend với 8+ năm kinh nghiệm trong Java, Spring Boot và kiến trúc microservices.",
+    "location": "Hà Nội, Việt Nam",
+    "quickLinks": "Liên kết nhanh",
+    "connect": "Kết nối",
+    "copyright": "© 2025 TuanNT. Tất cả quyền được bảo lưu."
+  },
+  "home": {
+    "hero": {
+      "greeting": "Xin chào, tôi là",
+      "title": "Java Backend Developer",
+      "description": "Với 8+ năm kinh nghiệm phát triển backend, tôi chuyên về Java, Spring Boot, microservices và kiến trúc hệ thống quy mô lớn.",
+      "viewProjects": "Xem dự án",
+      "downloadCV": "Tải CV"
+    },
+    "highlights": {
+      "title": "Chuyên môn của tôi",
+      "subtitle": "Những lĩnh vực tôi có kinh nghiệm sâu và đam mê phát triển",
+      "backend": {
+        "title": "Backend Development",
+        "desc": "Phát triển API và services với Java, Spring Boot"
+      },
+      "database": {
+        "title": "Database Design",
+        "desc": "Thiết kế và tối ưu hóa cơ sở dữ liệu"
+      },
+      "microservices": {
+        "title": "Microservices",
+        "desc": "Kiến trúc và triển khai hệ thống microservices"
+      },
+      "cloud": {
+        "title": "Cloud & DevOps",
+        "desc": "Triển khai và quản lý ứng dụng trên cloud"
+      }
+    },
+    "quickAccess": {
+      "title": "Khám phá thêm",
+      "subtitle": "Tìm hiểu về công việc và dự án của tôi",
+      "explore": "Khám phá",
+      "tryNow": "Thử ngay",
+      "getInTouch": "Liên hệ",
+      "projects": {
+        "title": "Dự án nổi bật",
+        "desc": "Xem các dự án backend và full-stack tôi đã thực hiện"
+      },
+      "quiz": {
+        "title": "Ứng dụng Quiz",
+        "desc": "Thử nghiệm ứng dụng quiz tương tác được xây dựng bằng React"
+      },
+      "contact": {
+        "title": "Hợp tác cùng tôi",
+        "desc": "Liên hệ để thảo luận về cơ hội hợp tác"
+      }
+    }
+  },
+  "about": {
+    "title": "Giới thiệu về tôi",
+    "subtitle": "Tìm hiểu về hành trình và kinh nghiệm của tôi trong lĩnh vực phát triển phần mềm",
+    "bio": {
+      "title": "Câu chuyện của tôi",
+      "paragraph1": "Tôi là một Java Backend Developer với hơn 8 năm kinh nghiệm trong việc xây dựng và duy trì các hệ thống backend quy mô lớn. Tôi có đam mê với việc tạo ra những giải pháp kỹ thuật hiệu quả và có thể mở rộng.",
+      "paragraph2": "Trong suốt sự nghiệp của mình, tôi đã làm việc với nhiều công nghệ khác nhau, từ các framework truyền thống đến các công nghệ cloud hiện đại. Tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng những công nghệ mới nhất.",
+      "paragraph3": "Ngoài việc phát triển phần mềm, tôi còn đam mê chia sẻ kiến thức thông qua blog và mentoring các developer trẻ. Tôi tin rằng việc chia sẻ kiến thức sẽ giúp cộng đồng phát triển mạnh mẽ hơn."
+    },
+    "location": "Hà Nội, Việt Nam",
+    "quickFacts": {
+      "title": "Thông tin nhanh",
+      "coffee": "500+ tách cà phê đã uống trong năm",
+      "languages": "Java, Python, JavaScript, TypeScript",
+      "teamSize": "Đã dẫn dắt team 5-10 người",
+      "certifications": "3 chứng chỉ chuyên nghiệp"
+    },
+    "experience": {
+      "title": "Kinh nghiệm làm việc",
+      "years": "8+ năm kinh nghiệm",
+      "senior": {
+        "title": "Senior Java Backend Developer",
+        "company": "Tech Solutions Inc.",
+        "period": "2020 - Hiện tại",
+        "desc": "Dẫn dắt team phát triển các hệ thống microservices quy mô lớn, thiết kế kiến trúc và mentoring junior developers."
+      },
+      "mid": {
+        "title": "Java Developer",
+        "company": "Digital Innovations Ltd.",
+        "period": "2018 - 2020",
+        "desc": "Phát triển và duy trì các ứng dụng web enterprise, tối ưu hóa hiệu suất và triển khai CI/CD."
+      },
+      "junior": {
+        "title": "Junior Java Developer",
+        "company": "StartUp Ventures",
+        "period": "2016 - 2018",
+        "desc": "Bắt đầu sự nghiệp với việc phát triển các ứng dụng web đơn giản và học hỏi các best practices."
+      }
+    },
+    "achievements": {
+      "title": "Thành tựu nổi bật",
+      "certification": {
+        "title": "Chứng chỉ chuyên nghiệp",
+        "desc": "AWS Certified Solutions Architect và Spring Professional"
+      },
+      "team": {
+        "title": "Lãnh đạo nhóm",
+        "desc": "Dẫn dắt thành công team 8 developers trong 3 năm"
+      },
+      "projects": {
+        "title": "Dự án thành công",
+        "desc": "Hoàn thành 50+ dự án với chất lượng cao"
+      }
+    }
+  },
+  "projects": {
+    "title": "Dự án của tôi",
+    "subtitle": "Khám phá các dự án backend và full-stack tôi đã thực hiện trong suốt sự nghiệp",
+    "featured": "Dự án nổi bật",
+    "other": "Dự án khác",
+    "viewCode": "Xem mã nguồn",
+    "liveDemo": "Demo trực tiếp",
+    "code": "Mã nguồn",
+    "demo": "Demo",
+    "status": {
+      "production": "Đang sản xuất",
+      "development": "Đang phát triển",
+      "completed": "Hoàn thành"
+    },
+    "ecommerce": {
+      "title": "Nền tảng E-commerce",
+      "desc": "Hệ thống thương mại điện tử quy mô lớn với kiến trúc microservices, xử lý hàng triệu giao dịch mỗi ngày."
+    },
+    "microservices": {
+      "title": "Kiến trúc Microservices",
+      "desc": "Framework microservices hoàn chỉnh với service discovery, load balancing và monitoring tự động."
+    },
+    "api": {
+      "title": "REST API Framework",
+      "desc": "Framework phát triển API nhanh chóng với authentication, validation và documentation tự động."
+    },
+    "quiz": {
+      "title": "Ứng dụng Quiz",
+      "desc": "Ứng dụng quiz tương tác với hỗ trợ nhiều định dạng câu hỏi và chế độ học tập khác nhau."
+    },
+    "monitoring": {
+      "title": "Hệ thống Monitoring",
+      "desc": "Giải pháp monitoring toàn diện với real-time alerts và dashboard tùy chỉnh."
+    },
+    "chatbot": {
+      "title": "AI Chatbot Platform",
+      "desc": "Nền tảng chatbot thông minh với xử lý ngôn ngữ tự nhiên và machine learning."
+    }
+  },
+  "skills": {
+    "title": "Kỹ năng & Công nghệ",
+    "subtitle": "Những công nghệ và kỹ năng tôi sử dụng để xây dựng các giải pháp phần mềm chất lượng cao",
+    "backend": {
+      "title": "Backend Development"
+    },
+    "database": {
+      "title": "Cơ sở dữ liệu"
+    },
+    "devops": {
+      "title": "DevOps & Cloud"
+    },
+    "tools": {
+      "title": "Công cụ phát triển"
+    },
+    "monitoring": {
+      "title": "Monitoring & Logging"
+    },
+    "frontend": {
+      "title": "Frontend (Bonus)"
+    },
+    "certifications": {
+      "title": "Chứng chỉ chuyên nghiệp",
+      "subtitle": "Các chứng chỉ và certification tôi đã đạt được",
+      "aws": "AWS Certified Solutions Architect",
+      "spring": "Spring Professional Certification",
+      "oracle": "Oracle Certified Java Developer"
+    },
+    "summary": {
+      "title": "Tóm tắt kỹ năng",
+      "experience": "Năm kinh nghiệm",
+      "projects": "Dự án hoàn thành",
+      "technologies": "Công nghệ thành thạo",
+      "certifications": "Chứng chỉ"
+    }
+  },
+  "blog": {
+    "title": "Blog & Bài viết",
+    "subtitle": "Chia sẻ kiến thức và kinh nghiệm về phát triển phần mềm, Java và các công nghệ backend",
+    "featured": "Bài viết nổi bật",
+    "recent": "Bài viết gần đây",
+    "readMore": "Đọc thêm",
+    "newsletter": {
+      "title": "Đăng ký nhận bài viết mới",
+      "subtitle": "Nhận thông báo khi có bài viết mới về Java, Spring Boot và backend development",
+      "placeholder": "Nhập email của bạn",
+      "subscribe": "Đăng ký"
+    },
+    "posts": {
+      "microservices": {
+        "title": "Xây dựng Microservices với Spring Boot",
+        "excerpt": "Hướng dẫn chi tiết cách thiết kế và triển khai kiến trúc microservices sử dụng Spring Boot, Spring Cloud và Docker."
+      },
+      "performance": {
+        "title": "Tối ưu hóa hiệu suất Java Applications",
+        "excerpt": "Các kỹ thuật và best practices để cải thiện hiệu suất ứng dụng Java, từ JVM tuning đến database optimization."
+      },
+      "database": {
+        "title": "PostgreSQL Performance Tuning",
+        "excerpt": "Chiến lược tối ưu hóa cơ sở dữ liệu PostgreSQL cho các ứng dụng có lưu lượng truy cập cao."
+      },
+      "testing": {
+        "title": "Testing Strategies cho Java Applications",
+        "excerpt": "Xây dựng test suite toàn diện với JUnit, Mockito và integration testing cho ứng dụng Spring Boot."
+      },
+      "security": {
+        "title": "Bảo mật Spring Boot Applications",
+        "excerpt": "Implement authentication và authorization với Spring Security, JWT và OAuth2 một cách hiệu quả."
+      },
+      "devops": {
+        "title": "DevOps với Docker và Kubernetes",
+        "excerpt": "Containerization và orchestration cho Java applications sử dụng Docker, Kubernetes và CI/CD pipelines."
+      }
+    }
+  },
+  "contact": {
+    "title": "Liên hệ với tôi",
+    "subtitle": "Hãy liên hệ để thảo luận về cơ hội hợp tác, dự án hoặc chỉ đơn giản là trò chuyện về công nghệ",
+    "form": {
+      "title": "Gửi tin nhắn",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập email của bạn",
+      "subject": "Chủ đề",
+      "subjectPlaceholder": "Chủ đề tin nhắn",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Viết tin nhắn của bạn...",
+      "send": "Gửi tin nhắn",
+      "success": "Tin nhắn đã được gửi thành công! Tôi sẽ phản hồi sớm nhất có thể."
+    },
+    "info": {
+      "email": {
+        "title": "Email",
+        "desc": "Gửi email cho tôi bất cứ lúc nào"
+      },
+      "phone": {
+        "title": "Điện thoại",
+        "desc": "Gọi điện trong giờ hành chính"
+      },
+      "location": {
+        "title": "Địa điểm",
+        "value": "Hà Nội, Việt Nam",
+        "desc": "Có thể làm việc remote hoặc on-site"
+      }
+    },
+    "social": {
+      "title": "Mạng xã hội",
+      "subtitle": "Kết nối với tôi trên các nền tảng khác"
+    },
+    "availability": {
+      "title": "Tình trạng làm việc",
+      "subtitle": "Hiện tại tôi đang mở cho các cơ hội mới",
+      "status": "Sẵn sàng cho dự án mới"
+    }
+  },
+  "feeds": {
+    "title": "Tin tức & Feeds",
+    "subtitle": "Cập nhật tin tức mới nhất từ các nguồn uy tín",
+    "filters": {
+      "title": "Bộ lọc tin tức",
+      "source": "Nguồn tin",
+      "category": "Danh mục",
+      "refresh": "Làm mới"
+    },
+    "loading": {
+      "sources": "Đang tải nguồn tin...",
+      "feeds": "Đang tải tin tức...",
+      "wait": "Vui lòng chờ trong giây lát"
+    },
+    "error": {
+      "title": "Lỗi tải dữ liệu",
+      "loadSources": "Không thể tải danh sách nguồn tin",
+      "loadFeeds": "Không thể tải tin tức"
+    },
+    "info": {
+      "lastUpdate": "Cập nhật lần cuối",
+      "articles": "bài viết",
+      "source": "Nguồn",
+      "category": "Danh mục"
+    },
+    "article": {
+      "readMore": "Đọc thêm",
+      "publishedAt": "Xuất bản",
+      "timeAgo": {
+        "minutesAgo": "{minutes} phút trước",
+        "hoursAgo": "{hours} giờ trước",
+        "daysAgo": "{days} ngày trước"
+      }
+    },
+    "empty": {
+      "title": "Không có tin tức",
+      "description": "Không tìm thấy bài viết nào cho danh mục này."
+    }
+  },
+  "quiz": {
+    "app": {
+      "title": "Luyện tập Trắc Nghiệm",
+      "subtitle": "Luyện tập và nâng cao kiến thức của bạn"
+    },
+    "progress": {
+      "title": "Tiến độ làm bài",
+      "question": "Câu hỏi {current} / {total}",
+      "complete": "{percentage}% Hoàn thành"
+    },
+    "question": {
+      "studyMode": "Chế độ Học tập",
+      "examMode": "Chế độ Thi cử",
+      "explanation": "Giải thích:",
+      "correct": "Chính xác!",
+      "incorrect": "Sai rồi!"
+    },
+    "navigation": {
+      "previous": "Trước",
+      "next": "Tiếp",
+      "finish": "Hoàn thành",
+      "submit": "Nộp bài",
+      "questionCounter": "Câu {current} / {total}",
+      "progressComplete": "{percentage}% hoàn thành",
+      "backToSetup": "Quay lại thiết lập"
+    },
+    "stats": {
+      "answered": "Đã trả lời",
+      "remaining": "Còn lại",
+      "progress": "Tiến độ"
+    },
+    "timer": {
+      "timeRemaining": "Thời gian còn lại",
+      "timeRunningOut": "Sắp hết giờ",
+      "timeAlmostUp": "Hết giờ!",
+      "timeUp": "Hết giờ"
+    },
+    "setup": {
+      "title": "Thiết lập Quiz",
+      "subtitle": "Cấu hình phiên luyện tập của bạn",
+      "questionsAvailable": "{count} câu hỏi có sẵn trong bộ quiz này",
+      "chooseMode": "Chọn Chế độ Quiz",
+      "studyModeTitle": "Chế độ Học tập",
+      "studyModeDesc": "Xem đáp án đúng và giải thích ngay sau mỗi câu hỏi",
+      "examModeTitle": "Chế độ Thi cử",
+      "examModeDesc": "Hoàn thành tất cả câu hỏi trước, sau đó xem kết quả và giải thích",
+      "timeLimit": "Giới hạn thời gian",
+      "noTimeLimit": "Không giới hạn thời gian",
+      "noTimeLimitDesc": "Làm bài không bị giới hạn thời gian",
+      "customTimeLimit": "Nhập thời gian tùy chỉnh",
+      "customTimePlaceholder": "Nhập số phút",
+      "minutes": "phút",
+      "minutesPerQuestion": "phút/câu",
+      "timeEstimate": "Khoảng {time} {unit}",
+      "unlimited": "Không giới hạn",
+      "questionCount": "Bạn muốn luyện tập bao nhiêu câu hỏi?",
+      "allQuestions": "Tất cả câu hỏi",
+      "allQuestionsDesc": "Luyện tập với tất cả {count} câu hỏi",
+      "questions": "câu hỏi",
+      "customNumber": "Nhập số câu tùy chỉnh",
+      "customPlaceholder": "Nhập số câu hỏi",
+      "options": "Tùy chọn",
+      "randomize": "Xáo trộn câu hỏi",
+      "randomizeDesc": "Câu hỏi sẽ được hiển thị theo thứ tự ngẫu nhiên",
+      "startStudy": "Bắt đầu Học tập",
+      "startExam": "Bắt đầu Thi cử",
+      "backToSource": "Quay lại chọn bộ đề"
+    },
+    "results": {
+      "studyComplete": "Phiên Học tập Hoàn thành!",
+      "examComplete": "Bài Thi Hoàn thành!",
+      "performance": "Đây là kết quả của bạn",
+      "timeUpMessage": "Hết thời gian! Đây là kết quả của bạn",
+      "score": "Điểm số",
+      "totalQuestions": "Tổng số câu hỏi",
+      "correctAnswers": "Câu trả lời đúng",
+      "incorrectAnswers": "Câu trả lời sai",
+      "overallPerformance": "Hiệu suất tổng thể",
+      "timeInformation": "Thông tin thời gian",
+      "timeAllowed": "Thời gian cho phép",
+      "timeUsed": "Thời gian đã dùng",
+      "timeRemaining": "Thời gian còn lại",
+      "timeUp": "Đã hết giờ",
+      "showDetails": "Hiện Kết quả Chi tiết",
+      "hideDetails": "Ẩn Kết quả Chi tiết",
+      "tryAgain": "Thử lại",
+      "loadNewQuiz": "Tải Quiz mới",
+      "detailedResults": "Kết quả Chi tiết & Giải thích",
+      "excellent": "Xuất sắc",
+      "good": "Tốt",
+      "fair": "Khá",
+      "needsImprovement": "Cần cải thiện",
+      "correctAnswer": "Đáp án đúng",
+      "yourAnswer": "Bạn đã chọn",
+      "noAnswer": "Bạn chưa chọn đáp án nào",
+      "result": "Kết quả:",
+      "explanation": "Giải thích:",
+      "allAnswers": "Tất cả đáp án:"
+    },
+    "sourceSelector": {
+      "title": "Chọn Bộ Đề",
+      "subtitle": "Chọn từ danh sách có sẵn, nhập Link hoặc dán JSON trực tiếp",
+      "predefinedSources": "📚 Bộ Đề Có Sẵn",
+      "customInput": "🔧 Nhập Dữ liệu Tùy Chỉnh",
+      "inputUrl": "Nhập URL",
+      "inputJson": "Dán JSON",
+      "urlLabel": "URL của file JSON chứa câu hỏi:",
+      "urlPlaceholder": "https://example.com/questions.json",
+      "jsonLabel": "Dán nội dung JSON chứa câu hỏi:",
+      "load": "Tải",
+      "loadFromJson": "Tải từ JSON",
+      "validUrl": "URL hợp lệ",
+      "invalidUrl": "URL không hợp lệ",
+      "validJson": "JSON hợp lệ",
+      "checkingJson": "Đang kiểm tra JSON...",
+      "formatInfo": "📋 Định dạng dữ liệu được hỗ trợ",
+      "formatDescUrl": "File JSON từ URL cần có cấu trúc mảng với các đối tượng câu hỏi theo định dạng sau:",
+      "formatDescJson": "JSON cần có cấu trúc mảng với các đối tượng câu hỏi theo định dạng sau:",
+      "requirements": "Yêu cầu bắt buộc:",
+      "reqQuestion": "Mỗi câu hỏi phải có trường",
+      "reqOptions": "Trường options phải là mảng các object",
+      "reqOptionFields": "Mỗi option phải có text và isCorrect",
+      "reqOneCorrect": "Chỉ có đúng 1 option có isCorrect: true",
+      "reqExplanation": "Trường explanation là tùy chọn",
+      "loadingQuizzes": "Đang tải danh sách quiz...",
+      "loadingWait": "Vui lòng chờ trong giây lát",
+      "apiError": "Không thể tải từ API",
+      "apiErrorDesc": "Đang hiển thị bộ đề mặc định.",
+      "noQuizzes": "Không có bộ đề nào",
+      "noQuizzesDesc": "Không tìm thấy bộ đề nào từ nguồn dữ liệu.",
+      "loading": "Đang tải...",
+      "customUrlDesc": "Nhập URL của file JSON chứa câu hỏi quiz",
+      "customJsonDesc": "Dán trực tiếp nội dung JSON chứa câu hỏi",
+      "jsonInvalid": "JSON không hợp lệ hoặc không đúng định dạng"
+    },
+    "loading": {
+      "title": "Đang tải câu hỏi quiz...",
+      "subtitle": "Đang lấy dữ liệu từ nguồn bên ngoài",
+      "loadingQuestions": "Đang tải câu hỏi..."
+    },
+    "error": {
+      "title": "Không thể tải Quiz",
+      "backToSource": "Quay lại chọn nguồn",
+      "loadData": "Lỗi tải dữ liệu"
+    }
+  },
+  "common": {
+    "available": "Có sẵn",
+    "predefined": "Có sẵn",
+    "url": "URL",
+    "json": "JSON",
+    "back": "Quay lại",
+    "loading": "Đang tải",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "warning": "Cảnh báo",
+    "info": "Thông tin"
+  }
+}
