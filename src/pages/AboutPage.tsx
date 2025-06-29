@@ -5,6 +5,14 @@ import { useLanguage } from '../contexts/LanguageContext';
 export const AboutPage: React.FC = () => {
   const { t } = useLanguage();
 
+  // Get experience data directly from translations object
+  const { language } = useLanguage();
+  const translations = language === 'vi' 
+    ? require('../locales/vi.json')
+    : require('../locales/en.json');
+  
+  const experiences = translations.about.experience.period || [];
+
   const achievements = [
     {
       icon: Award,
@@ -22,10 +30,6 @@ export const AboutPage: React.FC = () => {
       description: t('about.achievements.projects.desc'),
     },
   ];
-
-  // Get experience data from translations
-  const experienceData = t('about.experience.period');
-  const experiences = Array.isArray(experienceData) ? experienceData : [];
 
   return (
     <div className="min-h-screen py-20">
