@@ -111,19 +111,22 @@
           "title": "Senior Software Engineer",
           "company": "ABC Technology Company",
           "period": "2022 - Present",
-          "desc": "Developing and maintaining large-scale web applications, API design and system performance optimization."
+          "desc": "Developing and maintaining large-scale web applications, API design and system performance optimization.",
+          "technologies": ["Java", "Spring Boot", "PostgreSQL", "React", "Docker"]
         },
         {
           "title": "Software Engineer",
           "company": "XYZ Software Company",
           "period": "2020 - 2022",
-          "desc": "Developing new features for web applications, working with team to deliver high-quality projects."
+          "desc": "Developing new features for web applications, working with team to deliver high-quality projects.",
+          "technologies": ["Java", "Spring Framework", "MySQL", "Vue.js"]
         },
         {
           "title": "Junior Software Developer",
           "company": "StartUp Tech",
           "period": "2019 - 2020",
-          "desc": "Started career developing simple web applications and learning best practices."
+          "desc": "Started career developing simple web applications and learning best practices.",
+          "technologies": ["Java", "JSP/Servlet", "MySQL", "HTML/CSS"]
         }
       ]
     },

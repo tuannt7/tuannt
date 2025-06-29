@@ -114,33 +114,16 @@ export const AboutPage: React.FC = () => {
                 </div>
                 <p className="text-gray-600 dark:text-gray-300 mb-4">{exp.desc}</p>
                 
-                {/* Add some sample technologies for each position */}
+                {/* Technologies from language file */}
                 <div className="flex flex-wrap gap-2">
-                  {index === 0 && (
-                    <>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Spring Boot</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">PostgreSQL</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">React</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Docker</span>
-                    </>
-                  )}
-                  {index === 1 && (
-                    <>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Spring Framework</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">MySQL</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Vue.js</span>
-                    </>
-                  )}
-                  {index === 2 && (
-                    <>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">JSP/Servlet</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">MySQL</span>
-                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">HTML/CSS</span>
-                    </>
-                  )}
+                  {exp.technologies && exp.technologies.map((tech: string, techIndex: number) => (
+                    <span
+                      key={techIndex}
+                      className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium"
+                    >
+                      {tech}
+                    </span>
+                  ))}
                 </div>
               </div>
             ))}
