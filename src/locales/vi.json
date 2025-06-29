@@ -1,20 +1,20 @@
 {
   "profile": {
-    "name": "TuanNT",
-    "fullName": "Nguyễn Thanh Tuấn",
-    "title": "Java Backend Developer",
-    "subtitle": "Backend Developer",
+    "name": "Tuấn Nguyễn",
+    "fullName": "Nguyễn Thọ Tuấn",
+    "title": "Senior Software Engineer",
+    "subtitle": "Senior Software Engineer",
     "email": "contact@tuannt.me",
     "phone": "+84 123 456 789",
     "location": "Hà Nội, Việt Nam",
-    "github": "https://github.com/tuannt",
-    "linkedin": "https://linkedin.com/in/tuannt",
-    "telegram": "https://t.me/tuannt",
+    "github": "https://github.com/ngthotuan",
+    "linkedin": "https://linkedin.com/in/ngthotuan",
+    "telegram": "https://t.me/ngthotuan",
     "website": "https://tuannt.me",
-    "description": "Chuyên gia phát triển backend với 8+ năm kinh nghiệm trong Java, Spring Boot và kiến trúc microservices.",
-    "shortBio": "Java Backend Developer với 8+ năm kinh nghiệm",
-    "experience": "8+ năm kinh nghiệm",
-    "copyright": "© 2025 TuanNT. Tất cả quyền được bảo lưu."
+    "description": "Senior Software Engineer với 5+ năm kinh nghiệm trong Java, Spring Boot, và phát triển ứng dụng web quy mô lớn.",
+    "shortBio": "Senior Software Engineer với 5+ năm kinh nghiệm",
+    "experience": "5+ năm kinh nghiệm",
+    "copyright": "© 2025 Tuấn Nguyễn. Tất cả quyền được bảo lưu."
   },
   "nav": {
     "home": "Trang chủ",
@@ -27,22 +27,22 @@
     "contact": "Liên hệ"
   },
   "header": {
-    "subtitle": "Backend Developer",
+    "subtitle": "Senior Software Engineer",
     "backToHome": "Quay về trang chủ"
   },
   "footer": {
-    "subtitle": "Backend Developer",
-    "description": "Chuyên gia phát triển backend với 8+ năm kinh nghiệm trong Java, Spring Boot và kiến trúc microservices.",
+    "subtitle": "Senior Software Engineer",
+    "description": "Senior Software Engineer với 5+ năm kinh nghiệm trong Java, Spring Boot, và phát triển ứng dụng web quy mô lớn.",
     "location": "Hà Nội, Việt Nam",
     "quickLinks": "Liên kết nhanh",
     "connect": "Kết nối",
-    "copyright": "© 2025 TuanNT. Tất cả quyền được bảo lưu."
+    "copyright": "© 2025 Tuấn Nguyễn. Tất cả quyền được bảo lưu."
   },
   "home": {
     "hero": {
       "greeting": "Xin chào, tôi là",
-      "title": "Java Backend Developer",
-      "description": "Với 8+ năm kinh nghiệm phát triển backend, tôi chuyên về Java, Spring Boot, microservices và kiến trúc hệ thống quy mô lớn.",
+      "title": "Senior Software Engineer",
+      "description": "Với 5+ năm kinh nghiệm phát triển phần mềm, tôi chuyên về Java, Spring Boot, và xây dựng các ứng dụng web hiệu suất cao.",
       "viewProjects": "Xem dự án",
       "downloadCV": "Tải CV"
     },
@@ -58,12 +58,12 @@
         "desc": "Thiết kế và tối ưu hóa cơ sở dữ liệu"
       },
       "microservices": {
-        "title": "Microservices",
-        "desc": "Kiến trúc và triển khai hệ thống microservices"
+        "title": "Web Applications",
+        "desc": "Xây dựng ứng dụng web full-stack hiệu suất cao"
       },
       "cloud": {
-        "title": "Cloud & DevOps",
-        "desc": "Triển khai và quản lý ứng dụng trên cloud"
+        "title": "System Architecture",
+        "desc": "Thiết kế kiến trúc hệ thống và tối ưu hóa hiệu suất"
       }
     },
     "quickAccess": {
@@ -74,7 +74,7 @@
       "getInTouch": "Liên hệ",
       "projects": {
         "title": "Dự án nổi bật",
-        "desc": "Xem các dự án backend và full-stack tôi đã thực hiện"
+        "desc": "Xem các dự án web application và backend tôi đã thực hiện"
       },
       "quiz": {
         "title": "Ứng dụng Quiz",
@@ -91,37 +91,37 @@
     "subtitle": "Tìm hiểu về hành trình và kinh nghiệm của tôi trong lĩnh vực phát triển phần mềm",
     "bio": {
       "title": "Câu chuyện của tôi",
-      "paragraph1": "Tôi là một Java Backend Developer với hơn 8 năm kinh nghiệm trong việc xây dựng và duy trì các hệ thống backend quy mô lớn. Tôi có đam mê với việc tạo ra những giải pháp kỹ thuật hiệu quả và có thể mở rộng.",
-      "paragraph2": "Trong suốt sự nghiệp của mình, tôi đã làm việc với nhiều công nghệ khác nhau, từ các framework truyền thống đến các công nghệ cloud hiện đại. Tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng những công nghệ mới nhất.",
-      "paragraph3": "Ngoài việc phát triển phần mềm, tôi còn đam mê chia sẻ kiến thức thông qua blog và mentoring các developer trẻ. Tôi tin rằng việc chia sẻ kiến thức sẽ giúp cộng đồng phát triển mạnh mẽ hơn."
+      "paragraph1": "Tôi là một Senior Software Engineer với hơn 5 năm kinh nghiệm trong việc phát triển các ứng dụng web và hệ thống backend. Tôi có đam mê với việc tạo ra những giải pháp kỹ thuật hiệu quả và có thể mở rộng.",
+      "paragraph2": "Trong suốt sự nghiệp của mình, tôi đã làm việc với nhiều công nghệ khác nhau, từ Java và Spring Boot đến các framework frontend hiện đại. Tôi luôn tìm kiếm cơ hội để học hỏi và áp dụng những công nghệ mới nhất.",
+      "paragraph3": "Ngoài việc phát triển phần mềm, tôi còn đam mê chia sẻ kiến thức và mentoring các developer trẻ. Tôi tin rằng việc chia sẻ kiến thức sẽ giúp cộng đồng phát triển mạnh mẽ hơn."
     },
     "location": "Hà Nội, Việt Nam",
     "quickFacts": {
       "title": "Thông tin nhanh",
-      "coffee": "500+ tách cà phê đã uống trong năm",
-      "languages": "Java, Python, JavaScript, TypeScript",
-      "teamSize": "Đã dẫn dắt team 5-10 người",
-      "certifications": "3 chứng chỉ chuyên nghiệp"
+      "coffee": "300+ tách cà phê đã uống trong năm",
+      "languages": "Java, JavaScript, TypeScript, Python",
+      "teamSize": "Đã làm việc trong team 3-8 người",
+      "certifications": "2 chứng chỉ chuyên nghiệp"
     },
     "experience": {
       "title": "Kinh nghiệm làm việc",
-      "years": "8+ năm kinh nghiệm",
+      "years": "5+ năm kinh nghiệm",
       "senior": {
-        "title": "Senior Java Backend Developer",
-        "company": "Tech Solutions Inc.",
-        "period": "2020 - Hiện tại",
-        "desc": "Dẫn dắt team phát triển các hệ thống microservices quy mô lớn, thiết kế kiến trúc và mentoring junior developers."
+        "title": "Senior Software Engineer",
+        "company": "Công ty Công nghệ ABC",
+        "period": "2022 - Hiện tại",
+        "desc": "Phát triển và duy trì các ứng dụng web quy mô lớn, thiết kế API và tối ưu hóa hiệu suất hệ thống."
       },
       "mid": {
-        "title": "Java Developer",
-        "company": "Digital Innovations Ltd.",
-        "period": "2018 - 2020",
-        "desc": "Phát triển và duy trì các ứng dụng web enterprise, tối ưu hóa hiệu suất và triển khai CI/CD."
+        "title": "Software Engineer",
+        "company": "Công ty Phần mềm XYZ",
+        "period": "2020 - 2022",
+        "desc": "Phát triển các tính năng mới cho ứng dụng web, làm việc với team để deliver các dự án chất lượng cao."
       },
       "junior": {
-        "title": "Junior Java Developer",
-        "company": "StartUp Ventures",
-        "period": "2016 - 2018",
+        "title": "Junior Software Developer",
+        "company": "StartUp Tech",
+        "period": "2019 - 2020",
         "desc": "Bắt đầu sự nghiệp với việc phát triển các ứng dụng web đơn giản và học hỏi các best practices."
       }
     },
@@ -129,21 +129,21 @@
       "title": "Thành tựu nổi bật",
       "certification": {
         "title": "Chứng chỉ chuyên nghiệp",
-        "desc": "AWS Certified Solutions Architect và Spring Professional"
+        "desc": "Oracle Certified Java Developer và Spring Professional"
       },
       "team": {
-        "title": "Lãnh đạo nhóm",
-        "desc": "Dẫn dắt thành công team 8 developers trong 3 năm"
+        "title": "Làm việc nhóm",
+        "desc": "Đã làm việc hiệu quả trong các team từ 3-8 người"
       },
       "projects": {
         "title": "Dự án thành công",
-        "desc": "Hoàn thành 50+ dự án với chất lượng cao"
+        "desc": "Hoàn thành 20+ dự án với chất lượng cao"
       }
     }
   },
   "projects": {
     "title": "Dự án của tôi",
-    "subtitle": "Khám phá các dự án backend và full-stack tôi đã thực hiện trong suốt sự nghiệp",
+    "subtitle": "Khám phá các dự án web application và backend tôi đã thực hiện trong suốt sự nghiệp",
     "featured": "Dự án nổi bật",
     "other": "Dự án khác",
     "viewCode": "Xem mã nguồn",
@@ -156,28 +156,28 @@
       "completed": "Hoàn thành"
     },
     "ecommerce": {
-      "title": "Nền tảng E-commerce",
-      "desc": "Hệ thống thương mại điện tử quy mô lớn với kiến trúc microservices, xử lý hàng triệu giao dịch mỗi ngày."
+      "title": "Hệ thống E-commerce",
+      "desc": "Ứng dụng thương mại điện tử với tính năng quản lý sản phẩm, đơn hàng và thanh toán trực tuyến."
     },
-    "microservices": {
-      "title": "Kiến trúc Microservices",
-      "desc": "Framework microservices hoàn chỉnh với service discovery, load balancing và monitoring tự động."
+    "crm": {
+      "title": "Hệ thống CRM",
+      "desc": "Ứng dụng quản lý khách hàng với dashboard analytics và báo cáo chi tiết."
     },
     "api": {
-      "title": "REST API Framework",
-      "desc": "Framework phát triển API nhanh chóng với authentication, validation và documentation tự động."
+      "title": "REST API Platform",
+      "desc": "Nền tảng API với authentication, rate limiting và documentation tự động."
     },
     "quiz": {
       "title": "Ứng dụng Quiz",
       "desc": "Ứng dụng quiz tương tác với hỗ trợ nhiều định dạng câu hỏi và chế độ học tập khác nhau."
     },
-    "monitoring": {
-      "title": "Hệ thống Monitoring",
-      "desc": "Giải pháp monitoring toàn diện với real-time alerts và dashboard tùy chỉnh."
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "desc": "Dashboard quản trị với real-time monitoring và báo cáo thống kê."
     },
-    "chatbot": {
-      "title": "AI Chatbot Platform",
-      "desc": "Nền tảng chatbot thông minh với xử lý ngôn ngữ tự nhiên và machine learning."
+    "booking": {
+      "title": "Hệ thống Booking",
+      "desc": "Ứng dụng đặt lịch trực tuyến với tích hợp thanh toán và thông báo."
     }
   },
   "skills": {
@@ -199,7 +199,7 @@
       "title": "Monitoring & Logging"
     },
     "frontend": {
-      "title": "Frontend (Bonus)"
+      "title": "Frontend"
     },
     "certifications": {
       "title": "Chứng chỉ chuyên nghiệp",
@@ -218,40 +218,40 @@
   },
   "blog": {
     "title": "Blog & Bài viết",
-    "subtitle": "Chia sẻ kiến thức và kinh nghiệm về phát triển phần mềm, Java và các công nghệ backend",
+    "subtitle": "Chia sẻ kiến thức và kinh nghiệm về phát triển phần mềm, Java và các công nghệ web",
     "featured": "Bài viết nổi bật",
     "recent": "Bài viết gần đây",
     "readMore": "Đọc thêm",
     "newsletter": {
       "title": "Đăng ký nhận bài viết mới",
-      "subtitle": "Nhận thông báo khi có bài viết mới về Java, Spring Boot và backend development",
+      "subtitle": "Nhận thông báo khi có bài viết mới về Java, Spring Boot và web development",
       "placeholder": "Nhập email của bạn",
       "subscribe": "Đăng ký"
     },
     "posts": {
       "microservices": {
-        "title": "Xây dựng Microservices với Spring Boot",
-        "excerpt": "Hướng dẫn chi tiết cách thiết kế và triển khai kiến trúc microservices sử dụng Spring Boot, Spring Cloud và Docker."
+        "title": "Xây dựng Web Applications với Spring Boot",
+        "excerpt": "Hướng dẫn chi tiết cách phát triển ứng dụng web hiệu suất cao sử dụng Spring Boot và các best practices."
       },
       "performance": {
         "title": "Tối ưu hóa hiệu suất Java Applications",
         "excerpt": "Các kỹ thuật và best practices để cải thiện hiệu suất ứng dụng Java, từ JVM tuning đến database optimization."
       },
       "database": {
-        "title": "PostgreSQL Performance Tuning",
-        "excerpt": "Chiến lược tối ưu hóa cơ sở dữ liệu PostgreSQL cho các ứng dụng có lưu lượng truy cập cao."
+        "title": "Database Design và Optimization",
+        "excerpt": "Chiến lược thiết kế và tối ưu hóa cơ sở dữ liệu cho các ứng dụng web có lưu lượng truy cập cao."
       },
       "testing": {
-        "title": "Testing Strategies cho Java Applications",
+        "title": "Testing Strategies cho Web Applications",
         "excerpt": "Xây dựng test suite toàn diện với JUnit, Mockito và integration testing cho ứng dụng Spring Boot."
       },
       "security": {
-        "title": "Bảo mật Spring Boot Applications",
-        "excerpt": "Implement authentication và authorization với Spring Security, JWT và OAuth2 một cách hiệu quả."
+        "title": "Bảo mật Web Applications",
+        "excerpt": "Implement authentication và authorization với Spring Security, JWT một cách hiệu quả."
       },
       "devops": {
-        "title": "DevOps với Docker và Kubernetes",
-        "excerpt": "Containerization và orchestration cho Java applications sử dụng Docker, Kubernetes và CI/CD pipelines."
+        "title": "CI/CD cho Java Applications",
+        "excerpt": "Thiết lập pipeline CI/CD cho Java applications sử dụng Jenkins, Docker và các công cụ DevOps."
       }
     }
   },

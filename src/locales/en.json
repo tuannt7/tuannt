@@ -1,20 +1,20 @@
 {
   "profile": {
-    "name": "TuanNT",
-    "fullName": "Nguyen Thanh Tuan",
-    "title": "Java Backend Developer",
-    "subtitle": "Backend Developer",
+    "name": "Tuan Nguyen",
+    "fullName": "Nguyen Tho Tuan",
+    "title": "Senior Software Engineer",
+    "subtitle": "Senior Software Engineer",
     "email": "contact@tuannt.me",
     "phone": "+84 123 456 789",
     "location": "Hanoi, Vietnam",
-    "github": "https://github.com/tuannt",
-    "linkedin": "https://linkedin.com/in/tuannt",
-    "telegram": "https://t.me/tuannt",
+    "github": "https://github.com/ngthotuan",
+    "linkedin": "https://linkedin.com/in/ngthotuan",
+    "telegram": "https://t.me/ngthotuan",
     "website": "https://tuannt.me",
-    "description": "Backend development expert with 8+ years of experience in Java, Spring Boot, and microservices architecture.",
-    "shortBio": "Java Backend Developer with 8+ years of experience",
-    "experience": "8+ years experience",
-    "copyright": "© 2025 TuanNT. All rights reserved."
+    "description": "Senior Software Engineer with 5+ years of experience in Java, Spring Boot, and large-scale web application development.",
+    "shortBio": "Senior Software Engineer with 5+ years of experience",
+    "experience": "5+ years experience",
+    "copyright": "© 2025 Tuan Nguyen. All rights reserved."
   },
   "nav": {
     "home": "Home",
@@ -27,22 +27,22 @@
     "contact": "Contact"
   },
   "header": {
-    "subtitle": "Backend Developer",
+    "subtitle": "Senior Software Engineer",
     "backToHome": "Back to Home"
   },
   "footer": {
-    "subtitle": "Backend Developer",
-    "description": "Backend development expert with 8+ years of experience in Java, Spring Boot, and microservices architecture.",
+    "subtitle": "Senior Software Engineer",
+    "description": "Senior Software Engineer with 5+ years of experience in Java, Spring Boot, and large-scale web application development.",
     "location": "Hanoi, Vietnam",
     "quickLinks": "Quick Links",
     "connect": "Connect",
-    "copyright": "© 2025 TuanNT. All rights reserved."
+    "copyright": "© 2025 Tuan Nguyen. All rights reserved."
   },
   "home": {
     "hero": {
       "greeting": "Hi, I'm",
-      "title": "Java Backend Developer",
-      "description": "With 8+ years of backend development experience, I specialize in Java, Spring Boot, microservices, and large-scale system architecture.",
+      "title": "Senior Software Engineer",
+      "description": "With 5+ years of software development experience, I specialize in Java, Spring Boot, and building high-performance web applications.",
       "viewProjects": "View Projects",
       "downloadCV": "Download CV"
     },
@@ -58,12 +58,12 @@
         "desc": "Database design and optimization"
       },
       "microservices": {
-        "title": "Microservices",
-        "desc": "Microservices architecture and deployment"
+        "title": "Web Applications",
+        "desc": "Building high-performance full-stack web applications"
       },
       "cloud": {
-        "title": "Cloud & DevOps",
-        "desc": "Cloud application deployment and management"
+        "title": "System Architecture",
+        "desc": "System architecture design and performance optimization"
       }
     },
     "quickAccess": {
@@ -74,7 +74,7 @@
       "getInTouch": "Get in Touch",
       "projects": {
         "title": "Featured Projects",
-        "desc": "View backend and full-stack projects I've built"
+        "desc": "View web applications and backend projects I've built"
       },
       "quiz": {
         "title": "Quiz Application",
@@ -91,37 +91,37 @@
     "subtitle": "Learn about my journey and experience in software development",
     "bio": {
       "title": "My Story",
-      "paragraph1": "I'm a Java Backend Developer with over 8 years of experience building and maintaining large-scale backend systems. I'm passionate about creating efficient and scalable technical solutions.",
-      "paragraph2": "Throughout my career, I've worked with various technologies, from traditional frameworks to modern cloud technologies. I'm always looking for opportunities to learn and apply the latest technologies.",
-      "paragraph3": "Besides software development, I'm passionate about sharing knowledge through blogging and mentoring young developers. I believe that sharing knowledge helps the community grow stronger."
+      "paragraph1": "I'm a Senior Software Engineer with over 5 years of experience in developing web applications and backend systems. I'm passionate about creating efficient and scalable technical solutions.",
+      "paragraph2": "Throughout my career, I've worked with various technologies, from Java and Spring Boot to modern frontend frameworks. I'm always looking for opportunities to learn and apply the latest technologies.",
+      "paragraph3": "Besides software development, I'm passionate about sharing knowledge and mentoring young developers. I believe that sharing knowledge helps the community grow stronger."
     },
     "location": "Hanoi, Vietnam",
     "quickFacts": {
       "title": "Quick Facts",
-      "coffee": "500+ cups of coffee consumed this year",
-      "languages": "Java, Python, JavaScript, TypeScript",
-      "teamSize": "Led teams of 5-10 people",
-      "certifications": "3 professional certifications"
+      "coffee": "300+ cups of coffee consumed this year",
+      "languages": "Java, JavaScript, TypeScript, Python",
+      "teamSize": "Worked in teams of 3-8 people",
+      "certifications": "2 professional certifications"
     },
     "experience": {
       "title": "Work Experience",
-      "years": "8+ years experience",
+      "years": "5+ years experience",
       "senior": {
-        "title": "Senior Java Backend Developer",
-        "company": "Tech Solutions Inc.",
-        "period": "2020 - Present",
-        "desc": "Leading team development of large-scale microservices systems, architecture design and mentoring junior developers."
+        "title": "Senior Software Engineer",
+        "company": "ABC Technology Company",
+        "period": "2022 - Present",
+        "desc": "Developing and maintaining large-scale web applications, API design and system performance optimization."
       },
       "mid": {
-        "title": "Java Developer",
-        "company": "Digital Innovations Ltd.",
-        "period": "2018 - 2020",
-        "desc": "Developing and maintaining enterprise web applications, performance optimization and CI/CD deployment."
+        "title": "Software Engineer",
+        "company": "XYZ Software Company",
+        "period": "2020 - 2022",
+        "desc": "Developing new features for web applications, working with team to deliver high-quality projects."
       },
       "junior": {
-        "title": "Junior Java Developer",
-        "company": "StartUp Ventures",
-        "period": "2016 - 2018",
+        "title": "Junior Software Developer",
+        "company": "StartUp Tech",
+        "period": "2019 - 2020",
         "desc": "Started career developing simple web applications and learning best practices."
       }
     },
@@ -129,21 +129,21 @@
       "title": "Notable Achievements",
       "certification": {
         "title": "Professional Certifications",
-        "desc": "AWS Certified Solutions Architect and Spring Professional"
+        "desc": "Oracle Certified Java Developer and Spring Professional"
       },
       "team": {
-        "title": "Team Leadership",
-        "desc": "Successfully led a team of 8 developers for 3 years"
+        "title": "Team Collaboration",
+        "desc": "Successfully worked in teams of 3-8 developers"
       },
       "projects": {
         "title": "Successful Projects",
-        "desc": "Completed 50+ high-quality projects"
+        "desc": "Completed 20+ high-quality projects"
       }
     }
   },
   "projects": {
     "title": "My Projects",
-    "subtitle": "Explore the backend and full-stack projects I've built throughout my career",
+    "subtitle": "Explore the web applications and backend projects I've built throughout my career",
     "featured": "Featured Projects",
     "other": "Other Projects",
     "viewCode": "View Code",
@@ -156,28 +156,28 @@
       "completed": "Completed"
     },
     "ecommerce": {
-      "title": "E-commerce Platform",
-      "desc": "Large-scale e-commerce system with microservices architecture, handling millions of transactions daily."
+      "title": "E-commerce System",
+      "desc": "E-commerce application with product management, order processing and online payment features."
     },
-    "microservices": {
-      "title": "Microservices Architecture",
-      "desc": "Complete microservices framework with service discovery, load balancing and automatic monitoring."
+    "crm": {
+      "title": "CRM System",
+      "desc": "Customer relationship management application with analytics dashboard and detailed reporting."
     },
     "api": {
-      "title": "REST API Framework",
-      "desc": "Rapid API development framework with authentication, validation and automatic documentation."
+      "title": "REST API Platform",
+      "desc": "API platform with authentication, rate limiting and automatic documentation."
     },
     "quiz": {
       "title": "Quiz Application",
       "desc": "Interactive quiz application with support for multiple question formats and different learning modes."
     },
-    "monitoring": {
-      "title": "Monitoring System",
-      "desc": "Comprehensive monitoring solution with real-time alerts and custom dashboards."
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "desc": "Administrative dashboard with real-time monitoring and statistical reporting."
     },
-    "chatbot": {
-      "title": "AI Chatbot Platform",
-      "desc": "Intelligent chatbot platform with natural language processing and machine learning."
+    "booking": {
+      "title": "Booking System",
+      "desc": "Online booking application with payment integration and notifications."
     }
   },
   "skills": {
@@ -199,7 +199,7 @@
       "title": "Monitoring & Logging"
     },
     "frontend": {
-      "title": "Frontend (Bonus)"
+      "title": "Frontend"
     },
     "certifications": {
       "title": "Professional Certifications",
@@ -218,40 +218,40 @@
   },
   "blog": {
     "title": "Blog & Articles",
-    "subtitle": "Sharing knowledge and experience about software development, Java and backend technologies",
+    "subtitle": "Sharing knowledge and experience about software development, Java and web technologies",
     "featured": "Featured Posts",
     "recent": "Recent Posts",
     "readMore": "Read More",
     "newsletter": {
       "title": "Subscribe to New Posts",
-      "subtitle": "Get notified when new articles about Java, Spring Boot and backend development are published",
+      "subtitle": "Get notified when new articles about Java, Spring Boot and web development are published",
       "placeholder": "Enter your email",
       "subscribe": "Subscribe"
     },
     "posts": {
       "microservices": {
-        "title": "Building Microservices with Spring Boot",
-        "excerpt": "Detailed guide on designing and deploying microservices architecture using Spring Boot, Spring Cloud and Docker."
+        "title": "Building Web Applications with Spring Boot",
+        "excerpt": "Detailed guide on developing high-performance web applications using Spring Boot and best practices."
       },
       "performance": {
         "title": "Java Application Performance Optimization",
         "excerpt": "Techniques and best practices to improve Java application performance, from JVM tuning to database optimization."
       },
       "database": {
-        "title": "PostgreSQL Performance Tuning",
-        "excerpt": "Database optimization strategies for PostgreSQL in high-traffic applications."
+        "title": "Database Design and Optimization",
+        "excerpt": "Database design and optimization strategies for high-traffic web applications."
       },
       "testing": {
-        "title": "Testing Strategies for Java Applications",
+        "title": "Testing Strategies for Web Applications",
         "excerpt": "Building comprehensive test suites with JUnit, Mockito and integration testing for Spring Boot applications."
       },
       "security": {
-        "title": "Securing Spring Boot Applications",
-        "excerpt": "Implementing authentication and authorization with Spring Security, JWT and OAuth2 effectively."
+        "title": "Securing Web Applications",
+        "excerpt": "Implementing authentication and authorization with Spring Security and JWT effectively."
       },
       "devops": {
-        "title": "DevOps with Docker and Kubernetes",
-        "excerpt": "Containerization and orchestration for Java applications using Docker, Kubernetes and CI/CD pipelines."
+        "title": "CI/CD for Java Applications",
+        "excerpt": "Setting up CI/CD pipelines for Java applications using Jenkins, Docker and DevOps tools."
       }
     }
   },

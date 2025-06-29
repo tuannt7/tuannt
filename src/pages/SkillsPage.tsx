@@ -11,12 +11,12 @@ export const SkillsPage: React.FC = () => {
       icon: Server,
       color: 'from-blue-500 to-blue-600',
       skills: [
-        { name: 'Java', level: 95, years: '8+ years' },
-        { name: 'Spring Boot', level: 90, years: '6+ years' },
-        { name: 'Spring Framework', level: 88, years: '7+ years' },
-        { name: 'Microservices', level: 85, years: '4+ years' },
-        { name: 'REST APIs', level: 92, years: '7+ years' },
-        { name: 'GraphQL', level: 75, years: '2+ years' },
+        { name: 'Java', level: 90, years: '5+ years' },
+        { name: 'Spring Boot', level: 88, years: '4+ years' },
+        { name: 'Spring Framework', level: 85, years: '4+ years' },
+        { name: 'REST APIs', level: 90, years: '5+ years' },
+        { name: 'Microservices', level: 75, years: '2+ years' },
+        { name: 'GraphQL', level: 70, years: '1+ years' },
       ],
     },
     {
@@ -24,12 +24,12 @@ export const SkillsPage: React.FC = () => {
       icon: Database,
       color: 'from-green-500 to-green-600',
       skills: [
-        { name: 'PostgreSQL', level: 90, years: '6+ years' },
-        { name: 'MySQL', level: 88, years: '7+ years' },
-        { name: 'MongoDB', level: 80, years: '4+ years' },
-        { name: 'Redis', level: 85, years: '5+ years' },
-        { name: 'Oracle DB', level: 75, years: '3+ years' },
-        { name: 'Elasticsearch', level: 70, years: '2+ years' },
+        { name: 'PostgreSQL', level: 85, years: '4+ years' },
+        { name: 'MySQL', level: 88, years: '5+ years' },
+        { name: 'MongoDB', level: 75, years: '2+ years' },
+        { name: 'Redis', level: 80, years: '3+ years' },
+        { name: 'Oracle DB', level: 70, years: '2+ years' },
+        { name: 'Elasticsearch', level: 65, years: '1+ years' },
       ],
     },
     {
@@ -37,12 +37,12 @@ export const SkillsPage: React.FC = () => {
       icon: Cloud,
       color: 'from-purple-500 to-purple-600',
       skills: [
-        { name: 'Docker', level: 88, years: '5+ years' },
-        { name: 'Kubernetes', level: 80, years: '3+ years' },
-        { name: 'AWS', level: 82, years: '4+ years' },
-        { name: 'Jenkins', level: 85, years: '4+ years' },
-        { name: 'GitLab CI/CD', level: 78, years: '3+ years' },
-        { name: 'Terraform', level: 70, years: '2+ years' },
+        { name: 'Docker', level: 82, years: '3+ years' },
+        { name: 'Jenkins', level: 80, years: '3+ years' },
+        { name: 'AWS', level: 75, years: '2+ years' },
+        { name: 'Kubernetes', level: 70, years: '1+ years' },
+        { name: 'GitLab CI/CD', level: 78, years: '2+ years' },
+        { name: 'Linux', level: 85, years: '4+ years' },
       ],
     },
     {
@@ -50,12 +50,12 @@ export const SkillsPage: React.FC = () => {
       icon: Code2,
       color: 'from-orange-500 to-orange-600',
       skills: [
-        { name: 'IntelliJ IDEA', level: 95, years: '8+ years' },
-        { name: 'Git', level: 92, years: '8+ years' },
-        { name: 'Maven', level: 90, years: '7+ years' },
-        { name: 'Gradle', level: 85, years: '5+ years' },
-        { name: 'Postman', level: 88, years: '6+ years' },
-        { name: 'SonarQube', level: 80, years: '4+ years' },
+        { name: 'IntelliJ IDEA', level: 95, years: '5+ years' },
+        { name: 'Git', level: 90, years: '5+ years' },
+        { name: 'Maven', level: 88, years: '4+ years' },
+        { name: 'Gradle', level: 80, years: '3+ years' },
+        { name: 'Postman', level: 85, years: '4+ years' },
+        { name: 'SonarQube', level: 75, years: '2+ years' },
       ],
     },
     {
@@ -63,12 +63,12 @@ export const SkillsPage: React.FC = () => {
       icon: Shield,
       color: 'from-red-500 to-red-600',
       skills: [
-        { name: 'Prometheus', level: 82, years: '3+ years' },
-        { name: 'Grafana', level: 80, years: '3+ years' },
-        { name: 'ELK Stack', level: 78, years: '3+ years' },
-        { name: 'Jaeger', level: 75, years: '2+ years' },
-        { name: 'New Relic', level: 70, years: '2+ years' },
-        { name: 'Splunk', level: 65, years: '1+ years' },
+        { name: 'Prometheus', level: 75, years: '2+ years' },
+        { name: 'Grafana', level: 75, years: '2+ years' },
+        { name: 'ELK Stack', level: 70, years: '2+ years' },
+        { name: 'Jaeger', level: 65, years: '1+ years' },
+        { name: 'New Relic', level: 70, years: '1+ years' },
+        { name: 'Splunk', level: 60, years: '1+ years' },
       ],
     },
     {
@@ -76,34 +76,28 @@ export const SkillsPage: React.FC = () => {
       icon: Zap,
       color: 'from-cyan-500 to-cyan-600',
       skills: [
-        { name: 'React', level: 80, years: '3+ years' },
-        { name: 'TypeScript', level: 85, years: '4+ years' },
-        { name: 'JavaScript', level: 82, years: '5+ years' },
-        { name: 'HTML/CSS', level: 78, years: '6+ years' },
-        { name: 'Tailwind CSS', level: 75, years: '2+ years' },
-        { name: 'Vue.js', level: 70, years: '2+ years' },
+        { name: 'JavaScript', level: 85, years: '4+ years' },
+        { name: 'TypeScript', level: 80, years: '3+ years' },
+        { name: 'React', level: 78, years: '2+ years' },
+        { name: 'Vue.js', level: 75, years: '2+ years' },
+        { name: 'HTML/CSS', level: 82, years: '5+ years' },
+        { name: 'Tailwind CSS', level: 75, years: '1+ years' },
       ],
     },
   ];
 
   const certifications = [
     {
-      name: t('skills.certifications.aws'),
-      issuer: 'Amazon Web Services',
+      name: t('skills.certifications.oracle'),
+      issuer: 'Oracle',
       year: '2023',
-      image: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=200',
+      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=200',
     },
     {
       name: t('skills.certifications.spring'),
       issuer: 'VMware',
       year: '2022',
       image: 'https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=200',
-    },
-    {
-      name: t('skills.certifications.oracle'),
-      issuer: 'Oracle',
-      year: '2021',
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=200',
     },
   ];
 
@@ -172,7 +166,7 @@ export const SkillsPage: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-20 max-w-2xl mx-auto">
           {certifications.map((cert, index) => (
             <div
               key={index}
@@ -201,11 +195,11 @@ export const SkillsPage: React.FC = () => {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div>
-              <div className="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-2">8+</div>
+              <div className="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-2">5+</div>
               <div className="text-gray-600 dark:text-gray-300">{t('skills.summary.experience')}</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">50+</div>
+              <div className="text-3xl font-bold text-green-600 dark:text-green-400 mb-2">20+</div>
               <div className="text-gray-600 dark:text-gray-300">{t('skills.summary.projects')}</div>
             </div>
             <div>
@@ -213,7 +207,7 @@ export const SkillsPage: React.FC = () => {
               <div className="text-gray-600 dark:text-gray-300">{t('skills.summary.technologies')}</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-orange-600 dark:text-orange-400 mb-2">3</div>
+              <div className="text-3xl font-bold text-orange-600 dark:text-orange-400 mb-2">2</div>
               <div className="text-gray-600 dark:text-gray-300">{t('skills.summary.certifications')}</div>
             </div>
           </div>
