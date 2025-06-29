@@ -1,16 +1,14 @@
 import React from 'react';
 import { Calendar, MapPin, Award, Users, Coffee, Code2 } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
+import enTranslations from '../locales/en.json';
+import viTranslations from '../locales/vi.json';
 
 export const AboutPage: React.FC = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
 
   // Get experience data directly from translations object
-  const { language } = useLanguage();
-  const translations = language === 'vi' 
-    ? require('../locales/vi.json')
-    : require('../locales/en.json');
-  
+  const translations = language === 'vi' ? viTranslations : enTranslations;
   const experiences = translations.about.experience.period || [];
 
   const achievements = [
