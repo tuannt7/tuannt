@@ -106,24 +106,26 @@
     "experience": {
       "title": "Kinh nghiệm làm việc",
       "years": "5+ năm kinh nghiệm",
-      "senior": {
-        "title": "Senior Software Engineer",
-        "company": "Công ty Công nghệ ABC",
-        "period": "2022 - Hiện tại",
-        "desc": "Phát triển và duy trì các ứng dụng web quy mô lớn, thiết kế API và tối ưu hóa hiệu suất hệ thống."
-      },
-      "mid": {
-        "title": "Software Engineer",
-        "company": "Công ty Phần mềm XYZ",
-        "period": "2020 - 2022",
-        "desc": "Phát triển các tính năng mới cho ứng dụng web, làm việc với team để deliver các dự án chất lượng cao."
-      },
-      "junior": {
-        "title": "Junior Software Developer",
-        "company": "StartUp Tech",
-        "period": "2019 - 2020",
-        "desc": "Bắt đầu sự nghiệp với việc phát triển các ứng dụng web đơn giản và học hỏi các best practices."
-      }
+      "period": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Công ty Công nghệ ABC",
+          "period": "2022 - Hiện tại",
+          "desc": "Phát triển và duy trì các ứng dụng web quy mô lớn, thiết kế API và tối ưu hóa hiệu suất hệ thống."
+        },
+        {
+          "title": "Software Engineer",
+          "company": "Công ty Phần mềm XYZ",
+          "period": "2020 - 2022",
+          "desc": "Phát triển các tính năng mới cho ứng dụng web, làm việc với team để deliver các dự án chất lượng cao."
+        },
+        {
+          "title": "Junior Software Developer",
+          "company": "StartUp Tech",
+          "period": "2019 - 2020",
+          "desc": "Bắt đầu sự nghiệp với việc phát triển các ứng dụng web đơn giản và học hỏi các best practices."
+        }
+      ]
     },
     "achievements": {
       "title": "Thành tựu nổi bật",

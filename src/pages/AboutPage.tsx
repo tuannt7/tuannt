@@ -5,30 +5,6 @@ import { useLanguage } from '../contexts/LanguageContext';
 export const AboutPage: React.FC = () => {
   const { t } = useLanguage();
 
-  const experiences = [
-    {
-      title: t('about.experience.senior.title'),
-      company: t('about.experience.senior.company'),
-      period: t('about.experience.senior.period'),
-      description: t('about.experience.senior.desc'),
-      technologies: ['Java', 'Spring Boot', 'Microservices', 'PostgreSQL', 'Redis', 'Docker', 'Kubernetes'],
-    },
-    {
-      title: t('about.experience.mid.title'),
-      company: t('about.experience.mid.company'),
-      period: t('about.experience.mid.period'),
-      description: t('about.experience.mid.desc'),
-      technologies: ['Java', 'Spring Framework', 'MySQL', 'REST APIs', 'Maven', 'Git'],
-    },
-    {
-      title: t('about.experience.junior.title'),
-      company: t('about.experience.junior.company'),
-      period: t('about.experience.junior.period'),
-      description: t('about.experience.junior.desc'),
-      technologies: ['Java', 'JSP', 'Servlet', 'Oracle DB', 'HTML/CSS', 'JavaScript'],
-    },
-  ];
-
   const achievements = [
     {
       icon: Award,
@@ -46,6 +22,10 @@ export const AboutPage: React.FC = () => {
       description: t('about.achievements.projects.desc'),
     },
   ];
+
+  // Get experience data from translations
+  const experienceData = t('about.experience.period');
+  const experiences = Array.isArray(experienceData) ? experienceData : [];
 
   return (
     <div className="min-h-screen py-20">
@@ -117,7 +97,7 @@ export const AboutPage: React.FC = () => {
             {t('about.experience.title')}
           </h2>
           <div className="space-y-8">
-            {experiences.map((exp, index) => (
+            {experiences.map((exp: any, index: number) => (
               <div
                 key={index}
                 className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-8 border border-gray-100 dark:border-gray-700"
@@ -132,16 +112,35 @@ export const AboutPage: React.FC = () => {
                     <span>{exp.period}</span>
                   </div>
                 </div>
-                <p className="text-gray-600 dark:text-gray-300 mb-4">{exp.description}</p>
+                <p className="text-gray-600 dark:text-gray-300 mb-4">{exp.desc}</p>
+                
+                {/* Add some sample technologies for each position */}
                 <div className="flex flex-wrap gap-2">
-                  {exp.technologies.map((tech, techIndex) => (
-                    <span
-                      key={techIndex}
-                      className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium"
-                    >
-                      {tech}
-                    </span>
-                  ))}
+                  {index === 0 && (
+                    <>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Spring Boot</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">PostgreSQL</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">React</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Docker</span>
+                    </>
+                  )}
+                  {index === 1 && (
+                    <>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Spring Framework</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">MySQL</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Vue.js</span>
+                    </>
+                  )}
+                  {index === 2 && (
+                    <>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Java</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">JSP/Servlet</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">MySQL</span>
+                      <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">HTML/CSS</span>
+                    </>
+                  )}
                 </div>
               </div>
             ))}

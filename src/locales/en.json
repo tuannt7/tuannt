@@ -106,24 +106,26 @@
     "experience": {
       "title": "Work Experience",
       "years": "5+ years experience",
-      "senior": {
-        "title": "Senior Software Engineer",
-        "company": "ABC Technology Company",
-        "period": "2022 - Present",
-        "desc": "Developing and maintaining large-scale web applications, API design and system performance optimization."
-      },
-      "mid": {
-        "title": "Software Engineer",
-        "company": "XYZ Software Company",
-        "period": "2020 - 2022",
-        "desc": "Developing new features for web applications, working with team to deliver high-quality projects."
-      },
-      "junior": {
-        "title": "Junior Software Developer",
-        "company": "StartUp Tech",
-        "period": "2019 - 2020",
-        "desc": "Started career developing simple web applications and learning best practices."
-      }
+      "period": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "ABC Technology Company",
+          "period": "2022 - Present",
+          "desc": "Developing and maintaining large-scale web applications, API design and system performance optimization."
+        },
+        {
+          "title": "Software Engineer",
+          "company": "XYZ Software Company",
+          "period": "2020 - 2022",
+          "desc": "Developing new features for web applications, working with team to deliver high-quality projects."
+        },
+        {
+          "title": "Junior Software Developer",
+          "company": "StartUp Tech",
+          "period": "2019 - 2020",
+          "desc": "Started career developing simple web applications and learning best practices."
+        }
+      ]
     },
     "achievements": {
       "title": "Notable Achievements",
